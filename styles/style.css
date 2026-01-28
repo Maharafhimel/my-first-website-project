@@ -28,5 +28,10 @@ h3{
     flex-direction: column;
     gap: 1px;
 }
-
+.pic{
+    margin: 10px;
+    image-resolution: 10px;
+    border-image: auto;
+    
+}
 
