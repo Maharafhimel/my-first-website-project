@@ -1,0 +1,32 @@
+.form{
+    display: inline;
+}
+h3{
+     font-weight: bold;
+     text-align: center;
+}
+.form{
+    
+    list-style: none;
+    display: flex;
+    gap: 40px;
+
+}
+.division{
+    border: 10px solid blue;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    gap: 5px;
+    background-color: darkgoldenrod;
+}
+
+
+
+.fill{
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+
+
